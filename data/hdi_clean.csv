@@ -1,0 +1,1585 @@
+﻿country,year,hdi
+iceland,1990,0.841
+norway,1990,0.856
+switzerland,1990,0.858
+denmark,1990,0.844
+germany,1990,0.834
+sweden,1990,0.818
+australia,1990,0.867
+"hong kong, china (sar)",1990,0.755
+netherlands,1990,0.855
+belgium,1990,0.824
+ireland,1990,0.776
+finland,1990,0.823
+singapore,1990,0.819
+united kingdom,1990,0.812
+united arab emirates,1990,0.713
+canada,1990,0.865
+new zealand,1990,0.811
+united states,1990,0.878
+korea (republic of),1990,0.738
+slovenia,1990,0.734
+austria,1990,0.832
+japan,1990,0.853
+malta,1990,0.735
+luxembourg,1990,0.787
+france,1990,0.798
+israel,1990,0.787
+spain,1990,0.766
+czechia,1990,0.753
+italy,1990,0.787
+cyprus,1990,0.749
+greece,1990,0.77
+poland,1990,0.722
+estonia,1990,0.738
+saudi arabia,1990,0.67
+bahrain,1990,0.734
+lithuania,1990,0.745
+portugal,1990,0.707
+latvia,1990,0.736
+qatar,1990,0.767
+slovakia,1990,0.698
+chile,1990,0.718
+hungary,1990,0.73
+argentina,1990,0.733
+uruguay,1990,0.713
+turkiye,1990,0.598
+kuwait,1990,0.698
+bulgaria,1990,0.706
+romania,1990,0.719
+panama,1990,0.672
+brunei darussalam,1990,0.781
+kazakhstan,1990,0.689
+costa rica,1990,0.677
+russian federation,1990,0.762
+bahamas,1990,0.762
+malaysia,1990,0.653
+north macedonia,1990,0.644
+armenia,1990,0.663
+barbados,1990,0.73
+albania,1990,0.654
+trinidad and tobago,1990,0.661
+mauritius,1990,0.627
+iran (islamic republic of),1990,0.626
+thailand,1990,0.584
+china,1990,0.491
+peru,1990,0.625
+mexico,1990,0.668
+colombia,1990,0.623
+brazil,1990,0.641
+ukraine,1990,0.75
+ecuador,1990,0.646
+dominican republic,1990,0.589
+guyana,1990,0.494
+sri lanka,1990,0.638
+tonga,1990,0.641
+viet nam,1990,0.499
+algeria,1990,0.595
+cuba,1990,0.687
+paraguay,1990,0.607
+egypt,1990,0.572
+jordan,1990,0.619
+saint lucia,1990,0.683
+mongolia,1990,0.593
+tunisia,1990,0.569
+south africa,1990,0.633
+bolivia (plurinational state of),1990,0.552
+gabon,1990,0.621
+botswana,1990,0.59
+fiji,1990,0.629
+indonesia,1990,0.531
+belize,1990,0.617
+libya,1990,0.69
+jamaica,1990,0.662
+kyrgyzstan,1990,0.649
+philippines,1990,0.593
+morocco,1990,0.451
+venezuela (bolivarian republic of),1990,0.658
+nicaragua,1990,0.515
+eswatini (kingdom of),1990,0.57
+iraq,1990,0.531
+tuvalu,1990,0.566
+bangladesh,1990,0.397
+india,1990,0.446
+el salvador,1990,0.523
+namibia,1990,0.597
+guatemala,1990,0.499
+congo,1990,0.573
+honduras,1990,0.516
+ghana,1990,0.432
+kenya,1990,0.485
+nepal,1990,0.404
+lao people's democratic republic,1990,0.409
+myanmar,1990,0.347
+cambodia,1990,0.387
+zimbabwe,1990,0.5
+zambia,1990,0.422
+cameroon,1990,0.448
+cote d'ivoire,1990,0.389
+uganda,1990,0.342
+papua new guinea,1990,0.403
+togo,1990,0.412
+syrian arab republic,1990,0.572
+mauritania,1990,0.396
+nigeria,1990,0.379
+tanzania (united republic of),1990,0.381
+haiti,1990,0.461
+lesotho,1990,0.483
+pakistan,1990,0.396
+senegal,1990,0.377
+gambia,1990,0.331
+congo (democratic republic of the),1990,0.388
+malawi,1990,0.306
+benin,1990,0.351
+guinea,1990,0.282
+afghanistan,1990,0.285
+mozambique,1990,0.246
+yemen,1990,0.359
+sierra leone,1990,0.313
+burundi,1990,0.294
+mali,1990,0.24
+niger,1990,0.215
+central african republic,1990,0.342
+very high human development,1990,0.797
+high human development,1990,0.569
+medium human development,1990,0.439
+low human development,1990,0.346
+developing countries,1990,0.52
+arab states,1990,0.55
+east asia and the pacific,1990,0.514
+europe and central asia,1990,0.674
+latin america and the caribbean,1990,0.648
+south asia,1990,0.454
+sub-saharan africa,1990,0.405
+least developed countries,1990,0.36
+small island developing states,1990,0.617
+organisation for economic co-operation and development,1990,0.801
+world,1990,0.608
+iceland,2000,0.902
+norway,2000,0.924
+switzerland,2000,0.892
+denmark,2000,0.896
+germany,2000,0.897
+sweden,2000,0.912
+australia,2000,0.897
+"hong kong, china (sar)",2000,0.839
+netherlands,2000,0.9
+belgium,2000,0.894
+ireland,2000,0.869
+finland,2000,0.898
+singapore,2000,0.882
+united kingdom,2000,0.87
+united arab emirates,2000,0.79
+canada,2000,0.894
+liechtenstein,2000,0.882
+new zealand,2000,0.896
+united states,2000,0.895
+korea (republic of),2000,0.83
+slovenia,2000,0.829
+austria,2000,0.879
+japan,2000,0.889
+malta,2000,0.79
+luxembourg,2000,0.861
+france,2000,0.852
+israel,2000,0.839
+spain,2000,0.833
+czechia,2000,0.817
+italy,2000,0.849
+san marino,2000,0.881
+andorra,2000,0.825
+cyprus,2000,0.808
+greece,2000,0.828
+poland,2000,0.801
+estonia,2000,0.793
+saudi arabia,2000,0.737
+bahrain,2000,0.775
+lithuania,2000,0.778
+portugal,2000,0.797
+croatia,2000,0.769
+latvia,2000,0.764
+qatar,2000,0.795
+slovakia,2000,0.774
+chile,2000,0.771
+hungary,2000,0.781
+argentina,2000,0.789
+uruguay,2000,0.764
+oman,2000,0.707
+turkiye,2000,0.669
+kuwait,2000,0.778
+bulgaria,2000,0.733
+romania,2000,0.73
+georgia,2000,0.705
+panama,2000,0.718
+brunei darussalam,2000,0.792
+kazakhstan,2000,0.692
+costa rica,2000,0.72
+serbia,2000,0.701
+russian federation,2000,0.75
+belarus,2000,0.724
+bahamas,2000,0.787
+malaysia,2000,0.733
+north macedonia,2000,0.686
+armenia,2000,0.667
+barbados,2000,0.762
+albania,2000,0.682
+trinidad and tobago,2000,0.714
+mauritius,2000,0.683
+bosnia and herzegovina,2000,0.674
+iran (islamic republic of),2000,0.71
+saint vincent and the grenadines,2000,0.7
+thailand,2000,0.657
+china,2000,0.598
+peru,2000,0.682
+azerbaijan,2000,0.652
+mexico,2000,0.712
+colombia,2000,0.679
+brazil,2000,0.69
+palau,2000,0.736
+ukraine,2000,0.716
+ecuador,2000,0.683
+dominican republic,2000,0.658
+guyana,2000,0.567
+sri lanka,2000,0.702
+tonga,2000,0.688
+maldives,2000,0.639
+viet nam,2000,0.604
+algeria,2000,0.651
+cuba,2000,0.697
+dominica,2000,0.721
+paraguay,2000,0.664
+egypt,2000,0.639
+jordan,2000,0.672
+saint lucia,2000,0.71
+mongolia,2000,0.611
+tunisia,2000,0.654
+south africa,2000,0.618
+uzbekistan,2000,0.603
+bolivia (plurinational state of),2000,0.63
+gabon,2000,0.652
+botswana,2000,0.594
+fiji,2000,0.668
+indonesia,2000,0.6
+belize,2000,0.671
+libya,2000,0.727
+jamaica,2000,0.659
+kyrgyzstan,2000,0.627
+philippines,2000,0.632
+morocco,2000,0.528
+venezuela (bolivarian republic of),2000,0.703
+samoa,2000,0.676
+nicaragua,2000,0.593
+eswatini (kingdom of),2000,0.493
+iraq,2000,0.592
+tajikistan,2000,0.554
+tuvalu,2000,0.61
+bangladesh,2000,0.477
+india,2000,0.501
+el salvador,2000,0.607
+equatorial guinea,2000,0.508
+cabo verde,2000,0.585
+namibia,2000,0.561
+guatemala,2000,0.563
+congo,2000,0.545
+honduras,2000,0.558
+timor-leste,2000,0.507
+ghana,2000,0.487
+kenya,2000,0.5
+nepal,2000,0.471
+lao people's democratic republic,2000,0.473
+angola,2000,0.391
+micronesia (federated states of),2000,0.596
+myanmar,2000,0.415
+cambodia,2000,0.438
+comoros,2000,0.461
+zimbabwe,2000,0.458
+zambia,2000,0.429
+cameroon,2000,0.439
+solomon islands,2000,0.547
+cote d'ivoire,2000,0.419
+uganda,2000,0.407
+rwanda,2000,0.34
+papua new guinea,2000,0.456
+togo,2000,0.448
+syrian arab republic,2000,0.594
+mauritania,2000,0.468
+nigeria,2000,0.435
+tanzania (united republic of),2000,0.414
+haiti,2000,0.497
+lesotho,2000,0.462
+pakistan,2000,0.436
+senegal,2000,0.398
+gambia,2000,0.403
+congo (democratic republic of the),2000,0.391
+malawi,2000,0.394
+benin,2000,0.415
+djibouti,2000,0.337
+liberia,2000,0.443
+guinea,2000,0.359
+ethiopia,2000,0.293
+afghanistan,2000,0.351
+mozambique,2000,0.311
+madagascar,2000,0.443
+yemen,2000,0.439
+sierra leone,2000,0.318
+burundi,2000,0.308
+mali,2000,0.32
+niger,2000,0.266
+chad,2000,0.303
+central african republic,2000,0.333
+very high human development,2000,0.838
+high human development,2000,0.636
+medium human development,2000,0.491
+low human development,2000,0.393
+developing countries,2000,0.576
+arab states,2000,0.615
+east asia and the pacific,2000,0.604
+europe and central asia,2000,0.686
+latin america and the caribbean,2000,0.697
+south asia,2000,0.508
+sub-saharan africa,2000,0.435
+least developed countries,2000,0.411
+small island developing states,2000,0.66
+organisation for economic co-operation and development,2000,0.846
+world,2000,0.651
+iceland,2010,0.935
+norway,2010,0.947
+switzerland,2010,0.945
+denmark,2010,0.92
+germany,2010,0.936
+sweden,2010,0.918
+australia,2010,0.929
+"hong kong, china (sar)",2010,0.912
+netherlands,2010,0.925
+belgium,2010,0.921
+ireland,2010,0.915
+finland,2010,0.92
+singapore,2010,0.932
+united kingdom,2010,0.921
+united arab emirates,2010,0.835
+canada,2010,0.918
+liechtenstein,2010,0.914
+new zealand,2010,0.926
+united states,2010,0.919
+korea (republic of),2010,0.894
+slovenia,2010,0.896
+austria,2010,0.912
+japan,2010,0.907
+malta,2010,0.867
+luxembourg,2010,0.909
+france,2010,0.888
+israel,2010,0.889
+spain,2010,0.875
+czechia,2010,0.88
+italy,2010,0.887
+san marino,2010,0.905
+andorra,2010,0.87
+cyprus,2010,0.869
+greece,2010,0.876
+poland,2010,0.852
+estonia,2010,0.868
+saudi arabia,2010,0.801
+bahrain,2010,0.81
+lithuania,2010,0.854
+portugal,2010,0.836
+croatia,2010,0.831
+latvia,2010,0.833
+qatar,2010,0.834
+slovakia,2010,0.851
+chile,2010,0.823
+hungary,2010,0.838
+argentina,2010,0.844
+montenegro,2010,0.815
+uruguay,2010,0.796
+oman,2010,0.804
+turkiye,2010,0.75
+kuwait,2010,0.812
+antigua and barbuda,2010,0.828
+seychelles,2010,0.758
+bulgaria,2010,0.799
+romania,2010,0.822
+georgia,2010,0.77
+saint kitts and nevis,2010,0.791
+panama,2010,0.775
+brunei darussalam,2010,0.83
+kazakhstan,2010,0.781
+costa rica,2010,0.776
+serbia,2010,0.775
+russian federation,2010,0.808
+belarus,2010,0.803
+bahamas,2010,0.801
+malaysia,2010,0.779
+north macedonia,2010,0.765
+armenia,2010,0.747
+barbados,2010,0.797
+albania,2010,0.769
+trinidad and tobago,2010,0.789
+mauritius,2010,0.755
+bosnia and herzegovina,2010,0.725
+iran (islamic republic of),2010,0.778
+saint vincent and the grenadines,2010,0.746
+thailand,2010,0.742
+china,2010,0.71
+peru,2010,0.731
+grenada,2010,0.771
+azerbaijan,2010,0.744
+mexico,2010,0.751
+colombia,2010,0.741
+brazil,2010,0.748
+palau,2010,0.779
+moldova (republic of),2010,0.739
+ukraine,2010,0.782
+ecuador,2010,0.737
+dominican republic,2010,0.715
+guyana,2010,0.647
+sri lanka,2010,0.748
+tonga,2010,0.724
+maldives,2010,0.689
+viet nam,2010,0.686
+turkmenistan,2010,0.7
+algeria,2010,0.718
+cuba,2010,0.783
+dominica,2010,0.747
+paraguay,2010,0.709
+egypt,2010,0.677
+jordan,2010,0.732
+lebanon,2010,0.75
+saint lucia,2010,0.749
+mongolia,2010,0.714
+tunisia,2010,0.717
+south africa,2010,0.669
+uzbekistan,2010,0.681
+bolivia (plurinational state of),2010,0.677
+gabon,2010,0.684
+botswana,2010,0.652
+fiji,2010,0.697
+indonesia,2010,0.67
+suriname,2010,0.707
+belize,2010,0.727
+libya,2010,0.755
+jamaica,2010,0.708
+kyrgyzstan,2010,0.668
+philippines,2010,0.669
+morocco,2010,0.607
+venezuela (bolivarian republic of),2010,0.764
+samoa,2010,0.708
+nicaragua,2010,0.651
+nauru,2010,0.616
+bhutan,2010,0.593
+eswatini (kingdom of),2010,0.534
+iraq,2010,0.65
+tajikistan,2010,0.639
+tuvalu,2010,0.636
+bangladesh,2010,0.561
+india,2010,0.59
+el salvador,2010,0.66
+equatorial guinea,2010,0.612
+"palestine, state of",2010,0.691
+cabo verde,2010,0.648
+namibia,2010,0.591
+guatemala,2010,0.623
+congo,2010,0.609
+honduras,2010,0.596
+kiribati,2010,0.6
+sao tome and principe,2010,0.564
+timor-leste,2010,0.645
+ghana,2010,0.558
+kenya,2010,0.552
+nepal,2010,0.551
+vanuatu,2010,0.582
+lao people's democratic republic,2010,0.556
+angola,2010,0.528
+micronesia (federated states of),2010,0.603
+myanmar,2010,0.515
+cambodia,2010,0.543
+comoros,2010,0.534
+zimbabwe,2010,0.512
+zambia,2010,0.533
+cameroon,2010,0.529
+solomon islands,2010,0.564
+cote d'ivoire,2010,0.465
+uganda,2010,0.514
+rwanda,2010,0.504
+papua new guinea,2010,0.503
+togo,2010,0.483
+syrian arab republic,2010,0.669
+mauritania,2010,0.525
+nigeria,2010,0.502
+tanzania (united republic of),2010,0.513
+haiti,2010,0.452
+lesotho,2010,0.478
+pakistan,2010,0.5
+senegal,2010,0.477
+gambia,2010,0.463
+congo (democratic republic of the),2010,0.44
+malawi,2010,0.475
+benin,2010,0.485
+guinea-bissau,2010,0.452
+djibouti,2010,0.421
+sudan,2010,0.479
+liberia,2010,0.467
+eritrea,2010,0.465
+guinea,2010,0.43
+ethiopia,2010,0.415
+afghanistan,2010,0.465
+mozambique,2010,0.419
+madagascar,2010,0.493
+yemen,2010,0.502
+sierra leone,2010,0.41
+burkina faso,2010,0.377
+burundi,2010,0.416
+mali,2010,0.41
+niger,2010,0.339
+chad,2010,0.375
+central african republic,2010,0.358
+south sudan,2010,0.42
+very high human development,2010,0.879
+high human development,2010,0.714
+medium human development,2010,0.573
+low human development,2010,0.467
+developing countries,2010,0.649
+arab states,2010,0.67
+east asia and the pacific,2010,0.699
+europe and central asia,2010,0.753
+latin america and the caribbean,2010,0.747
+south asia,2010,0.59
+sub-saharan africa,2010,0.51
+least developed countries,2010,0.494
+small island developing states,2010,0.702
+organisation for economic co-operation and development,2010,0.883
+world,2010,0.707
+iceland,2015,0.956
+norway,2015,0.959
+switzerland,2015,0.957
+denmark,2015,0.943
+germany,2015,0.948
+sweden,2015,0.945
+australia,2015,0.938
+"hong kong, china (sar)",2015,0.937
+netherlands,2015,0.94
+belgium,2015,0.933
+ireland,2015,0.931
+finland,2015,0.938
+singapore,2015,0.935
+united kingdom,2015,0.931
+united arab emirates,2015,0.857
+canada,2015,0.932
+liechtenstein,2015,0.925
+new zealand,2015,0.934
+united states,2015,0.928
+korea (republic of),2015,0.914
+slovenia,2015,0.909
+austria,2015,0.919
+japan,2015,0.917
+malta,2015,0.892
+luxembourg,2015,0.913
+france,2015,0.901
+israel,2015,0.902
+spain,2015,0.895
+czechia,2015,0.9
+italy,2015,0.889
+san marino,2015,0.896
+andorra,2015,0.869
+cyprus,2015,0.882
+greece,2015,0.888
+poland,2015,0.879
+estonia,2015,0.888
+saudi arabia,2015,0.851
+bahrain,2015,0.868
+lithuania,2015,0.869
+portugal,2015,0.857
+croatia,2015,0.852
+latvia,2015,0.859
+qatar,2015,0.86
+slovakia,2015,0.861
+chile,2015,0.855
+hungary,2015,0.847
+argentina,2015,0.859
+montenegro,2015,0.839
+uruguay,2015,0.818
+oman,2015,0.838
+turkiye,2015,0.821
+kuwait,2015,0.832
+antigua and barbuda,2015,0.839
+seychelles,2015,0.819
+bulgaria,2015,0.824
+romania,2015,0.823
+georgia,2015,0.807
+saint kitts and nevis,2015,0.83
+panama,2015,0.803
+brunei darussalam,2015,0.839
+kazakhstan,2015,0.819
+costa rica,2015,0.803
+serbia,2015,0.802
+russian federation,2015,0.833
+belarus,2015,0.825
+bahamas,2015,0.807
+malaysia,2015,0.8
+north macedonia,2015,0.795
+armenia,2015,0.777
+barbados,2015,0.8
+albania,2015,0.797
+trinidad and tobago,2015,0.808
+mauritius,2015,0.792
+bosnia and herzegovina,2015,0.769
+iran (islamic republic of),2015,0.788
+saint vincent and the grenadines,2015,0.765
+thailand,2015,0.788
+china,2015,0.75
+peru,2015,0.768
+grenada,2015,0.782
+azerbaijan,2015,0.771
+mexico,2015,0.773
+colombia,2015,0.767
+brazil,2015,0.764
+palau,2015,0.802
+moldova (republic of),2015,0.759
+ukraine,2015,0.778
+ecuador,2015,0.764
+dominican republic,2015,0.747
+guyana,2015,0.683
+sri lanka,2015,0.769
+tonga,2015,0.743
+maldives,2015,0.725
+viet nam,2015,0.717
+turkmenistan,2015,0.725
+algeria,2015,0.737
+cuba,2015,0.769
+dominica,2015,0.741
+paraguay,2015,0.737
+egypt,2015,0.706
+jordan,2015,0.743
+lebanon,2015,0.763
+saint lucia,2015,0.757
+mongolia,2015,0.753
+tunisia,2015,0.728
+south africa,2015,0.722
+uzbekistan,2015,0.707
+bolivia (plurinational state of),2015,0.704
+gabon,2015,0.72
+marshall islands,2015,0.691
+botswana,2015,0.69
+fiji,2015,0.715
+indonesia,2015,0.701
+suriname,2015,0.718
+belize,2015,0.721
+libya,2015,0.728
+jamaica,2015,0.713
+kyrgyzstan,2015,0.695
+philippines,2015,0.69
+morocco,2015,0.659
+venezuela (bolivarian republic of),2015,0.768
+samoa,2015,0.708
+nicaragua,2015,0.679
+nauru,2015,0.66
+bhutan,2015,0.637
+eswatini (kingdom of),2015,0.607
+iraq,2015,0.675
+tajikistan,2015,0.658
+tuvalu,2015,0.658
+bangladesh,2015,0.621
+india,2015,0.633
+el salvador,2015,0.667
+equatorial guinea,2015,0.656
+"palestine, state of",2015,0.712
+cabo verde,2015,0.658
+namibia,2015,0.63
+guatemala,2015,0.638
+congo,2015,0.643
+honduras,2015,0.61
+kiribati,2015,0.623
+sao tome and principe,2015,0.608
+timor-leste,2015,0.628
+ghana,2015,0.588
+kenya,2015,0.583
+nepal,2015,0.575
+vanuatu,2015,0.599
+lao people's democratic republic,2015,0.604
+angola,2015,0.603
+micronesia (federated states of),2015,0.604
+myanmar,2015,0.566
+cambodia,2015,0.562
+comoros,2015,0.565
+zimbabwe,2015,0.567
+zambia,2015,0.565
+cameroon,2015,0.575
+solomon islands,2015,0.576
+cote d'ivoire,2015,0.519
+uganda,2015,0.547
+rwanda,2015,0.525
+papua new guinea,2015,0.543
+togo,2015,0.523
+syrian arab republic,2015,0.549
+mauritania,2015,0.551
+nigeria,2015,0.53
+tanzania (united republic of),2015,0.52
+haiti,2015,0.552
+lesotho,2015,0.517
+pakistan,2015,0.527
+senegal,2015,0.509
+gambia,2015,0.482
+congo (democratic republic of the),2015,0.477
+malawi,2015,0.504
+benin,2015,0.511
+guinea-bissau,2015,0.481
+djibouti,2015,0.469
+sudan,2015,0.498
+liberia,2015,0.48
+eritrea,2015,0.48
+guinea,2015,0.465
+ethiopia,2015,0.456
+afghanistan,2015,0.496
+mozambique,2015,0.457
+madagascar,2015,0.501
+yemen,2015,0.475
+sierra leone,2015,0.432
+burkina faso,2015,0.419
+burundi,2015,0.432
+mali,2015,0.413
+niger,2015,0.374
+chad,2015,0.396
+central african republic,2015,0.377
+south sudan,2015,0.317
+very high human development,2015,0.898
+high human development,2015,0.744
+medium human development,2015,0.611
+low human development,2015,0.491
+developing countries,2015,0.68
+arab states,2015,0.693
+east asia and the pacific,2015,0.735
+europe and central asia,2015,0.789
+latin america and the caribbean,2015,0.767
+south asia,2015,0.627
+sub-saharan africa,2015,0.54
+least developed countries,2015,0.526
+small island developing states,2015,0.727
+organisation for economic co-operation and development,2015,0.899
+world,2015,0.731
+iceland,2020,0.965
+norway,2020,0.969
+switzerland,2020,0.963
+denmark,2020,0.954
+germany,2020,0.955
+sweden,2020,0.951
+australia,2020,0.95
+"hong kong, china (sar)",2020,0.95
+netherlands,2020,0.945
+belgium,2020,0.939
+ireland,2020,0.948
+finland,2020,0.947
+singapore,2020,0.944
+united kingdom,2020,0.93
+united arab emirates,2020,0.909
+canada,2020,0.931
+liechtenstein,2020,0.929
+new zealand,2020,0.94
+united states,2020,0.925
+korea (republic of),2020,0.928
+slovenia,2020,0.918
+austria,2020,0.925
+japan,2020,0.922
+malta,2020,0.903
+luxembourg,2020,0.916
+france,2020,0.909
+israel,2020,0.912
+spain,2020,0.901
+czechia,2020,0.898
+italy,2020,0.899
+san marino,2020,0.895
+andorra,2020,0.851
+cyprus,2020,0.905
+greece,2020,0.896
+poland,2020,0.88
+estonia,2020,0.901
+saudi arabia,2020,0.875
+bahrain,2020,0.885
+lithuania,2020,0.888
+portugal,2020,0.87
+croatia,2020,0.867
+latvia,2020,0.879
+qatar,2020,0.872
+slovakia,2020,0.867
+chile,2020,0.856
+hungary,2020,0.857
+argentina,2020,0.851
+montenegro,2020,0.841
+uruguay,2020,0.837
+oman,2020,0.843
+turkiye,2020,0.838
+kuwait,2020,0.837
+antigua and barbuda,2020,0.84
+seychelles,2020,0.853
+bulgaria,2020,0.826
+romania,2020,0.832
+georgia,2020,0.822
+saint kitts and nevis,2020,0.828
+panama,2020,0.808
+brunei darussalam,2020,0.836
+kazakhstan,2020,0.826
+costa rica,2020,0.819
+serbia,2020,0.809
+russian federation,2020,0.818
+belarus,2020,0.815
+bahamas,2020,0.797
+malaysia,2020,0.81
+north macedonia,2020,0.783
+armenia,2020,0.761
+barbados,2020,0.803
+albania,2020,0.794
+trinidad and tobago,2020,0.8
+mauritius,2020,0.795
+bosnia and herzegovina,2020,0.783
+iran (islamic republic of),2020,0.775
+saint vincent and the grenadines,2020,0.781
+thailand,2020,0.798
+china,2020,0.786
+peru,2020,0.769
+grenada,2020,0.782
+azerbaijan,2020,0.757
+mexico,2020,0.763
+colombia,2020,0.764
+brazil,2020,0.77
+palau,2020,0.799
+moldova (republic of),2020,0.77
+ukraine,2020,0.783
+ecuador,2020,0.74
+dominican republic,2020,0.767
+guyana,2020,0.722
+sri lanka,2020,0.78
+tonga,2020,0.765
+maldives,2020,0.73
+viet nam,2020,0.755
+turkmenistan,2020,0.744
+algeria,2020,0.742
+cuba,2020,0.762
+dominica,2020,0.753
+paraguay,2020,0.742
+egypt,2020,0.736
+jordan,2020,0.743
+lebanon,2020,0.75
+saint lucia,2020,0.734
+mongolia,2020,0.741
+tunisia,2020,0.733
+south africa,2020,0.724
+uzbekistan,2020,0.723
+bolivia (plurinational state of),2020,0.697
+gabon,2020,0.732
+marshall islands,2020,0.722
+botswana,2020,0.718
+fiji,2020,0.718
+indonesia,2020,0.71
+suriname,2020,0.714
+belize,2020,0.713
+libya,2020,0.688
+jamaica,2020,0.711
+kyrgyzstan,2020,0.7
+philippines,2020,0.699
+morocco,2020,0.683
+venezuela (bolivarian republic of),2020,0.699
+samoa,2020,0.708
+nicaragua,2020,0.676
+nauru,2020,0.684
+bhutan,2020,0.688
+eswatini (kingdom of),2020,0.657
+iraq,2020,0.68
+tajikistan,2020,0.664
+tuvalu,2020,0.681
+bangladesh,2020,0.663
+india,2020,0.652
+el salvador,2020,0.66
+equatorial guinea,2020,0.668
+"palestine, state of",2020,0.718
+cabo verde,2020,0.647
+namibia,2020,0.647
+guatemala,2020,0.645
+congo,2020,0.643
+honduras,2020,0.625
+kiribati,2020,0.632
+sao tome and principe,2020,0.628
+timor-leste,2020,0.65
+ghana,2020,0.614
+kenya,2020,0.6
+nepal,2020,0.599
+vanuatu,2020,0.617
+lao people's democratic republic,2020,0.616
+angola,2020,0.61
+micronesia (federated states of),2020,0.609
+myanmar,2020,0.609
+cambodia,2020,0.595
+comoros,2020,0.592
+zimbabwe,2020,0.582
+zambia,2020,0.578
+cameroon,2020,0.579
+solomon islands,2020,0.579
+cote d'ivoire,2020,0.553
+uganda,2020,0.571
+rwanda,2020,0.555
+papua new guinea,2020,0.567
+togo,2020,0.554
+syrian arab republic,2020,0.57
+mauritania,2020,0.554
+nigeria,2020,0.547
+tanzania (united republic of),2020,0.554
+haiti,2020,0.555
+lesotho,2020,0.537
+pakistan,2020,0.536
+senegal,2020,0.522
+gambia,2020,0.512
+congo (democratic republic of the),2020,0.506
+malawi,2020,0.512
+benin,2020,0.504
+guinea-bissau,2020,0.498
+djibouti,2020,0.499
+sudan,2020,0.513
+liberia,2020,0.498
+eritrea,2020,0.495
+guinea,2020,0.488
+ethiopia,2020,0.486
+afghanistan,2020,0.501
+mozambique,2020,0.477
+madagascar,2020,0.483
+yemen,2020,0.459
+sierra leone,2020,0.454
+burkina faso,2020,0.453
+burundi,2020,0.435
+mali,2020,0.414
+niger,2020,0.404
+chad,2020,0.408
+central african republic,2020,0.386
+south sudan,2020,0.398
+very high human development,2020,0.901
+high human development,2020,0.763
+medium human development,2020,0.631
+low human development,2020,0.507
+developing countries,2020,0.696
+arab states,2020,0.707
+east asia and the pacific,2020,0.764
+europe and central asia,2020,0.802
+latin america and the caribbean,2020,0.764
+south asia,2020,0.645
+sub-saharan africa,2020,0.557
+least developed countries,2020,0.55
+small island developing states,2020,0.731
+organisation for economic co-operation and development,2020,0.903
+world,2020,0.742
+iceland,2021,0.967
+norway,2021,0.969
+switzerland,2021,0.968
+denmark,2021,0.958
+germany,2021,0.958
+sweden,2021,0.958
+australia,2021,0.954
+"hong kong, china (sar)",2021,0.961
+netherlands,2021,0.951
+belgium,2021,0.948
+ireland,2021,0.946
+finland,2021,0.949
+singapore,2021,0.948
+united kingdom,2021,0.941
+united arab emirates,2021,0.903
+canada,2021,0.937
+liechtenstein,2021,0.933
+new zealand,2021,0.939
+united states,2021,0.921
+korea (republic of),2021,0.933
+slovenia,2021,0.924
+austria,2021,0.93
+japan,2021,0.922
+malta,2021,0.914
+luxembourg,2021,0.918
+france,2021,0.915
+israel,2021,0.918
+spain,2021,0.912
+czechia,2021,0.901
+italy,2021,0.908
+san marino,2021,0.903
+andorra,2021,0.871
+cyprus,2021,0.907
+greece,2021,0.897
+poland,2021,0.884
+estonia,2021,0.899
+saudi arabia,2021,0.878
+bahrain,2021,0.885
+lithuania,2021,0.887
+portugal,2021,0.876
+croatia,2021,0.876
+latvia,2021,0.871
+qatar,2021,0.866
+slovakia,2021,0.859
+chile,2021,0.865
+hungary,2021,0.852
+argentina,2021,0.847
+montenegro,2021,0.84
+uruguay,2021,0.837
+oman,2021,0.834
+turkiye,2021,0.841
+kuwait,2021,0.839
+antigua and barbuda,2021,0.843
+seychelles,2021,0.838
+bulgaria,2021,0.817
+romania,2021,0.829
+georgia,2021,0.819
+saint kitts and nevis,2021,0.818
+panama,2021,0.819
+brunei darussalam,2021,0.835
+kazakhstan,2021,0.816
+costa rica,2021,0.817
+serbia,2021,0.807
+russian federation,2021,0.813
+belarus,2021,0.817
+bahamas,2021,0.794
+malaysia,2021,0.802
+north macedonia,2021,0.781
+armenia,2021,0.786
+barbados,2021,0.803
+albania,2021,0.794
+trinidad and tobago,2021,0.796
+mauritius,2021,0.789
+bosnia and herzegovina,2021,0.783
+iran (islamic republic of),2021,0.777
+saint vincent and the grenadines,2021,0.781
+thailand,2021,0.8
+china,2021,0.794
+peru,2021,0.764
+grenada,2021,0.782
+azerbaijan,2021,0.765
+mexico,2021,0.761
+colombia,2021,0.762
+brazil,2021,0.768
+palau,2021,0.789
+moldova (republic of),2021,0.773
+ukraine,2021,0.772
+ecuador,2021,0.753
+dominican republic,2021,0.762
+guyana,2021,0.713
+sri lanka,2021,0.777
+tonga,2021,0.763
+maldives,2021,0.745
+viet nam,2021,0.754
+turkmenistan,2021,0.754
+algeria,2021,0.755
+cuba,2021,0.745
+dominica,2021,0.749
+paraguay,2021,0.723
+egypt,2021,0.738
+jordan,2021,0.736
+lebanon,2021,0.733
+saint lucia,2021,0.724
+mongolia,2021,0.727
+tunisia,2021,0.728
+south africa,2021,0.721
+uzbekistan,2021,0.727
+bolivia (plurinational state of),2021,0.693
+gabon,2021,0.72
+marshall islands,2021,0.723
+botswana,2021,0.7
+fiji,2021,0.705
+indonesia,2021,0.707
+suriname,2021,0.697
+belize,2021,0.713
+libya,2021,0.729
+jamaica,2021,0.703
+kyrgyzstan,2021,0.704
+philippines,2021,0.69
+morocco,2021,0.69
+venezuela (bolivarian republic of),2021,0.696
+samoa,2021,0.706
+nicaragua,2021,0.682
+nauru,2021,0.692
+bhutan,2021,0.691
+eswatini (kingdom of),2021,0.658
+iraq,2021,0.687
+tajikistan,2021,0.672
+tuvalu,2021,0.681
+bangladesh,2021,0.663
+india,2021,0.647
+el salvador,2021,0.663
+equatorial guinea,2021,0.671
+"palestine, state of",2021,0.718
+cabo verde,2021,0.651
+namibia,2021,0.631
+guatemala,2021,0.639
+congo,2021,0.643
+honduras,2021,0.628
+kiribati,2021,0.631
+sao tome and principe,2021,0.631
+timor-leste,2021,0.644
+ghana,2021,0.618
+kenya,2021,0.608
+nepal,2021,0.596
+vanuatu,2021,0.615
+lao people's democratic republic,2021,0.613
+angola,2021,0.609
+micronesia (federated states of),2021,0.611
+myanmar,2021,0.605
+cambodia,2021,0.594
+comoros,2021,0.594
+zimbabwe,2021,0.581
+zambia,2021,0.574
+cameroon,2021,0.574
+solomon islands,2021,0.577
+cote d'ivoire,2021,0.557
+uganda,2021,0.573
+rwanda,2021,0.562
+papua new guinea,2021,0.567
+togo,2021,0.56
+syrian arab republic,2021,0.571
+mauritania,2021,0.553
+nigeria,2021,0.554
+tanzania (united republic of),2021,0.548
+haiti,2021,0.548
+lesotho,2021,0.532
+pakistan,2021,0.537
+senegal,2021,0.522
+gambia,2021,0.513
+congo (democratic republic of the),2021,0.508
+malawi,2021,0.509
+benin,2021,0.506
+guinea-bissau,2021,0.502
+djibouti,2021,0.501
+sudan,2021,0.512
+liberia,2021,0.503
+eritrea,2021,0.496
+guinea,2021,0.49
+ethiopia,2021,0.487
+afghanistan,2021,0.486
+mozambique,2021,0.478
+madagascar,2021,0.481
+yemen,2021,0.458
+sierra leone,2021,0.458
+burkina faso,2021,0.454
+burundi,2021,0.435
+mali,2021,0.414
+niger,2021,0.413
+chad,2021,0.408
+central african republic,2021,0.339
+south sudan,2021,0.393
+very high human development,2021,0.903
+high human development,2021,0.766
+medium human development,2021,0.629
+low human development,2021,0.507
+developing countries,2021,0.696
+arab states,2021,0.71
+east asia and the pacific,2021,0.768
+europe and central asia,2021,0.803
+latin america and the caribbean,2021,0.762
+south asia,2021,0.641
+sub-saharan africa,2021,0.558
+least developed countries,2021,0.549
+small island developing states,2021,0.727
+organisation for economic co-operation and development,2021,0.904
+world,2021,0.742
+iceland,2022,0.964
+norway,2022,0.967
+switzerland,2022,0.966
+denmark,2022,0.959
+germany,2022,0.955
+sweden,2022,0.959
+australia,2022,0.952
+"hong kong, china (sar)",2022,0.95
+netherlands,2022,0.953
+belgium,2022,0.945
+ireland,2022,0.947
+finland,2022,0.946
+singapore,2022,0.942
+united kingdom,2022,0.946
+united arab emirates,2022,0.921
+canada,2022,0.935
+liechtenstein,2022,0.936
+new zealand,2022,0.933
+united states,2022,0.93
+korea (republic of),2022,0.928
+slovenia,2022,0.926
+austria,2022,0.927
+japan,2022,0.921
+malta,2022,0.917
+luxembourg,2022,0.922
+france,2022,0.916
+israel,2022,0.921
+spain,2022,0.911
+czechia,2022,0.911
+italy,2022,0.905
+san marino,2022,0.91
+andorra,2022,0.893
+cyprus,2022,0.908
+greece,2022,0.897
+poland,2022,0.902
+estonia,2022,0.902
+saudi arabia,2022,0.893
+bahrain,2022,0.902
+lithuania,2022,0.888
+portugal,2022,0.883
+croatia,2022,0.886
+latvia,2022,0.881
+qatar,2022,0.883
+slovakia,2022,0.873
+chile,2022,0.869
+hungary,2022,0.867
+argentina,2022,0.858
+montenegro,2022,0.853
+uruguay,2022,0.852
+oman,2022,0.846
+turkiye,2022,0.853
+kuwait,2022,0.845
+antigua and barbuda,2022,0.848
+seychelles,2022,0.836
+bulgaria,2022,0.835
+romania,2022,0.84
+georgia,2022,0.838
+saint kitts and nevis,2022,0.829
+panama,2022,0.835
+brunei darussalam,2022,0.825
+kazakhstan,2022,0.831
+costa rica,2022,0.823
+serbia,2022,0.826
+russian federation,2022,0.826
+belarus,2022,0.824
+bahamas,2022,0.818
+malaysia,2022,0.81
+north macedonia,2022,0.811
+armenia,2022,0.801
+barbados,2022,0.807
+albania,2022,0.806
+trinidad and tobago,2022,0.805
+mauritius,2022,0.794
+bosnia and herzegovina,2022,0.799
+iran (islamic republic of),2022,0.793
+saint vincent and the grenadines,2022,0.794
+thailand,2022,0.792
+china,2022,0.796
+peru,2022,0.79
+grenada,2022,0.789
+azerbaijan,2022,0.784
+mexico,2022,0.783
+colombia,2022,0.782
+brazil,2022,0.78
+palau,2022,0.786
+moldova (republic of),2022,0.784
+ukraine,2022,0.772
+ecuador,2022,0.773
+dominican republic,2022,0.778
+guyana,2022,0.763
+sri lanka,2022,0.777
+tonga,2022,0.764
+maldives,2022,0.764
+viet nam,2022,0.764
+turkmenistan,2022,0.761
+algeria,2022,0.761
+cuba,2022,0.764
+dominica,2022,0.759
+paraguay,2022,0.747
+egypt,2022,0.751
+jordan,2022,0.751
+lebanon,2022,0.755
+saint lucia,2022,0.747
+mongolia,2022,0.742
+tunisia,2022,0.745
+south africa,2022,0.737
+uzbekistan,2022,0.737
+bolivia (plurinational state of),2022,0.727
+gabon,2022,0.73
+marshall islands,2022,0.732
+botswana,2022,0.729
+fiji,2022,0.726
+indonesia,2022,0.726
+suriname,2022,0.719
+belize,2022,0.717
+libya,2022,0.741
+jamaica,2022,0.718
+kyrgyzstan,2022,0.717
+philippines,2022,0.714
+morocco,2022,0.704
+venezuela (bolivarian republic of),2022,0.706
+samoa,2022,0.703
+nicaragua,2022,0.701
+nauru,2022,0.7
+bhutan,2022,0.695
+eswatini (kingdom of),2022,0.695
+iraq,2022,0.695
+tajikistan,2022,0.687
+tuvalu,2022,0.686
+bangladesh,2022,0.68
+india,2022,0.676
+el salvador,2022,0.674
+equatorial guinea,2022,0.677
+"palestine, state of",2022,0.733
+cabo verde,2022,0.664
+namibia,2022,0.649
+guatemala,2022,0.655
+congo,2022,0.644
+honduras,2022,0.643
+kiribati,2022,0.642
+sao tome and principe,2022,0.636
+timor-leste,2022,0.633
+ghana,2022,0.625
+kenya,2022,0.626
+nepal,2022,0.605
+vanuatu,2022,0.621
+lao people's democratic republic,2022,0.614
+angola,2022,0.615
+micronesia (federated states of),2022,0.614
+myanmar,2022,0.606
+cambodia,2022,0.602
+comoros,2022,0.602
+zimbabwe,2022,0.594
+zambia,2022,0.589
+cameroon,2022,0.581
+solomon islands,2022,0.583
+cote d'ivoire,2022,0.565
+uganda,2022,0.578
+rwanda,2022,0.57
+papua new guinea,2022,0.572
+togo,2022,0.567
+syrian arab republic,2022,0.571
+mauritania,2022,0.562
+nigeria,2022,0.557
+tanzania (united republic of),2022,0.554
+haiti,2022,0.552
+lesotho,2022,0.547
+pakistan,2022,0.544
+senegal,2022,0.526
+gambia,2022,0.519
+congo (democratic republic of the),2022,0.514
+malawi,2022,0.513
+benin,2022,0.512
+guinea-bissau,2022,0.511
+djibouti,2022,0.51
+sudan,2022,0.516
+liberia,2022,0.508
+eritrea,2022,0.499
+guinea,2022,0.498
+ethiopia,2022,0.494
+afghanistan,2022,0.495
+mozambique,2022,0.49
+madagascar,2022,0.483
+yemen,2022,0.466
+sierra leone,2022,0.463
+burkina faso,2022,0.457
+burundi,2022,0.437
+mali,2022,0.417
+niger,2022,0.414
+chad,2022,0.414
+somalia,2022,0.385
+south sudan,2022,0.388
+very high human development,2022,0.908
+high human development,2022,0.774
+medium human development,2022,0.649
+low human development,2022,0.512
+developing countries,2022,0.708
+arab states,2022,0.716
+east asia and the pacific,2022,0.773
+europe and central asia,2022,0.815
+latin america and the caribbean,2022,0.778
+south asia,2022,0.665
+sub-saharan africa,2022,0.565
+least developed countries,2022,0.555
+small island developing states,2022,0.737
+organisation for economic co-operation and development,2022,0.91
+world,2022,0.752
+iceland,2023,0.972
+norway,2023,0.97
+switzerland,2023,0.97
+denmark,2023,0.962
+germany,2023,0.959
+sweden,2023,0.959
+australia,2023,0.958
+"hong kong, china (sar)",2023,0.955
+netherlands,2023,0.955
+belgium,2023,0.951
+ireland,2023,0.949
+finland,2023,0.948
+singapore,2023,0.946
+united kingdom,2023,0.946
+united arab emirates,2023,0.94
+canada,2023,0.939
+liechtenstein,2023,0.938
+new zealand,2023,0.938
+united states,2023,0.938
+korea (republic of),2023,0.937
+slovenia,2023,0.931
+austria,2023,0.93
+japan,2023,0.925
+malta,2023,0.924
+luxembourg,2023,0.922
+france,2023,0.92
+israel,2023,0.919
+spain,2023,0.918
+czechia,2023,0.915
+italy,2023,0.915
+san marino,2023,0.915
+andorra,2023,0.913
+cyprus,2023,0.913
+greece,2023,0.908
+poland,2023,0.906
+estonia,2023,0.905
+saudi arabia,2023,0.9
+bahrain,2023,0.899
+lithuania,2023,0.895
+portugal,2023,0.89
+croatia,2023,0.889
+latvia,2023,0.889
+qatar,2023,0.886
+slovakia,2023,0.88
+chile,2023,0.878
+hungary,2023,0.87
+argentina,2023,0.865
+montenegro,2023,0.862
+uruguay,2023,0.862
+oman,2023,0.858
+turkiye,2023,0.853
+kuwait,2023,0.852
+antigua and barbuda,2023,0.851
+seychelles,2023,0.848
+bulgaria,2023,0.845
+romania,2023,0.845
+georgia,2023,0.844
+saint kitts and nevis,2023,0.84
+panama,2023,0.839
+brunei darussalam,2023,0.837
+kazakhstan,2023,0.837
+costa rica,2023,0.833
+serbia,2023,0.833
+russian federation,2023,0.832
+belarus,2023,0.824
+bahamas,2023,0.82
+malaysia,2023,0.819
+north macedonia,2023,0.815
+armenia,2023,0.811
+barbados,2023,0.811
+albania,2023,0.81
+trinidad and tobago,2023,0.807
+mauritius,2023,0.806
+bosnia and herzegovina,2023,0.804
+iran (islamic republic of),2023,0.799
+saint vincent and the grenadines,2023,0.798
+thailand,2023,0.798
+china,2023,0.797
+peru,2023,0.794
+grenada,2023,0.791
+azerbaijan,2023,0.789
+mexico,2023,0.789
+colombia,2023,0.788
+brazil,2023,0.786
+palau,2023,0.786
+moldova (republic of),2023,0.785
+ukraine,2023,0.779
+ecuador,2023,0.777
+dominican republic,2023,0.776
+guyana,2023,0.776
+sri lanka,2023,0.776
+tonga,2023,0.769
+maldives,2023,0.766
+viet nam,2023,0.766
+turkmenistan,2023,0.764
+algeria,2023,0.763
+cuba,2023,0.762
+dominica,2023,0.761
+paraguay,2023,0.756
+egypt,2023,0.754
+jordan,2023,0.754
+lebanon,2023,0.752
+saint lucia,2023,0.748
+mongolia,2023,0.747
+tunisia,2023,0.746
+south africa,2023,0.741
+uzbekistan,2023,0.74
+bolivia (plurinational state of),2023,0.733
+gabon,2023,0.733
+marshall islands,2023,0.733
+botswana,2023,0.731
+fiji,2023,0.731
+indonesia,2023,0.728
+suriname,2023,0.722
+belize,2023,0.721
+libya,2023,0.721
+jamaica,2023,0.72
+kyrgyzstan,2023,0.72
+philippines,2023,0.72
+morocco,2023,0.71
+venezuela (bolivarian republic of),2023,0.709
+samoa,2023,0.708
+nicaragua,2023,0.706
+nauru,2023,0.703
+bhutan,2023,0.698
+eswatini (kingdom of),2023,0.695
+iraq,2023,0.695
+tajikistan,2023,0.691
+tuvalu,2023,0.689
+bangladesh,2023,0.685
+india,2023,0.685
+el salvador,2023,0.678
+equatorial guinea,2023,0.674
+"palestine, state of",2023,0.674
+cabo verde,2023,0.668
+namibia,2023,0.665
+guatemala,2023,0.662
+congo,2023,0.649
+honduras,2023,0.645
+kiribati,2023,0.644
+sao tome and principe,2023,0.637
+timor-leste,2023,0.634
+ghana,2023,0.628
+kenya,2023,0.628
+nepal,2023,0.622
+vanuatu,2023,0.621
+lao people's democratic republic,2023,0.617
+angola,2023,0.616
+micronesia (federated states of),2023,0.615
+myanmar,2023,0.609
+cambodia,2023,0.606
+comoros,2023,0.603
+zimbabwe,2023,0.598
+zambia,2023,0.595
+cameroon,2023,0.588
+solomon islands,2023,0.584
+cote d'ivoire,2023,0.582
+uganda,2023,0.582
+rwanda,2023,0.578
+papua new guinea,2023,0.576
+togo,2023,0.571
+syrian arab republic,2023,0.564
+mauritania,2023,0.563
+nigeria,2023,0.56
+tanzania (united republic of),2023,0.555
+haiti,2023,0.554
+lesotho,2023,0.55
+pakistan,2023,0.544
+senegal,2023,0.53
+gambia,2023,0.524
+congo (democratic republic of the),2023,0.522
+malawi,2023,0.517
+benin,2023,0.515
+guinea-bissau,2023,0.514
+djibouti,2023,0.513
+sudan,2023,0.511
+liberia,2023,0.51
+eritrea,2023,0.503
+guinea,2023,0.5
+ethiopia,2023,0.497
+afghanistan,2023,0.496
+mozambique,2023,0.493
+madagascar,2023,0.487
+yemen,2023,0.47
+sierra leone,2023,0.467
+burkina faso,2023,0.459
+burundi,2023,0.439
+mali,2023,0.419
+niger,2023,0.419
+chad,2023,0.416
+central african republic,2023,0.414
+somalia,2023,0.404
+south sudan,2023,0.388
+very high human development,2023,0.914
+high human development,2023,0.777
+medium human development,2023,0.656
+low human development,2023,0.515
+developing countries,2023,0.712
+arab states,2023,0.719
+east asia and the pacific,2023,0.775
+europe and central asia,2023,0.818
+latin america and the caribbean,2023,0.783
+south asia,2023,0.672
+sub-saharan africa,2023,0.568
+least developed countries,2023,0.56
+small island developing states,2023,0.739
+organisation for economic co-operation and development,2023,0.916
+world,2023,0.756
